@@ -1,0 +1,41 @@
+{
+  "balance": 1144.61,
+  "withdrawnAmount": 15673.3,
+  "transactions": [
+    {
+      "id": "topup-init",
+      "type": "Wallet Topup",
+      "amount": 1500,
+      "date": "2026-05-20",
+      "funding": "Visa ****5678"
+    }
+  ],
+  "savedCards": [
+    {
+      "id": "card-1",
+      "number": "4532789012345678",
+      "expiry": "12/28",
+      "cvv": "123",
+      "holder": "Bangalore Rider",
+      "brand": "Visa"
+    },
+    {
+      "id": "card-2",
+      "number": "6071829304152637",
+      "expiry": "06/29",
+      "cvv": "987",
+      "holder": "Bangalore Rider",
+      "brand": "RuPay"
+    }
+  ],
+  "savedUpis": [
+    {
+      "id": "upi-1",
+      "address": "rider@okaxis"
+    },
+    {
+      "id": "upi-2",
+      "address": "9876543210@paytm"
+    }
+  ]
+}

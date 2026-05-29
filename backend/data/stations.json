@@ -1,0 +1,392 @@
+[
+  {
+    "id": "station-1",
+    "name": "Tata Power EZ Charge - Indiranagar",
+    "address": "100 Feet Rd, Hal 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
+    "lat": 12.9784,
+    "lng": 77.6408,
+    "operator": "Tata Power",
+    "rating": 4.7,
+    "reliability": 92,
+    "gridStatus": "Solar Power Backup",
+    "queueLength": 1,
+    "peakHours": [
+      15,
+      25,
+      45,
+      75,
+      90,
+      98,
+      85,
+      70,
+      65,
+      55,
+      35,
+      20
+    ],
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Restrooms",
+      "Shopping"
+    ],
+    "connectors": [
+      {
+        "type": "CCS",
+        "power": 150,
+        "price": 17.5,
+        "status": "Available",
+        "count": 6
+      },
+      {
+        "type": "Type 2",
+        "power": 22,
+        "price": 17.5,
+        "status": "Available",
+        "count": 4
+      }
+    ],
+    "status": "Available",
+    "isFavorite": true,
+    "reviews": [
+      {
+        "username": "Aero_Bolt",
+        "rating": 5,
+        "comment": "Incredible speeds! Got to 80% in just 20 minutes.",
+        "date": "2026-05-24"
+      },
+      {
+        "username": "EV_Pioneer",
+        "rating": 4,
+        "comment": "Good location on 100ft road. Coffee shop is right next door.",
+        "date": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "station-2",
+    "name": "Jio-bp pulse - MG Road",
+    "address": "MG Road Metro Station, Shivaji Nagar, Bengaluru, Karnataka 560001",
+    "lat": 12.9753,
+    "lng": 77.601,
+    "operator": "Jio-bp",
+    "rating": 4.5,
+    "reliability": 94,
+    "gridStatus": "Stable Grid",
+    "queueLength": 2,
+    "peakHours": [
+      30,
+      45,
+      60,
+      85,
+      95,
+      90,
+      80,
+      85,
+      75,
+      60,
+      40,
+      20
+    ],
+    "amenities": [
+      "Dining",
+      "Coffee",
+      "Restrooms"
+    ],
+    "connectors": [
+      {
+        "type": "CCS",
+        "power": 120,
+        "price": 19.5,
+        "status": "In Use",
+        "count": 4
+      },
+      {
+        "type": "CHAdeMO",
+        "power": 50,
+        "price": 16,
+        "status": "Available",
+        "count": 2
+      }
+    ],
+    "status": "Available",
+    "isFavorite": false,
+    "reviews": [
+      {
+        "username": "Ravi_K",
+        "rating": 5,
+        "comment": "Very easy to find under the metro station canopy.",
+        "date": "2026-05-25"
+      },
+      {
+        "username": "Karthik_EV",
+        "rating": 4,
+        "comment": "Stable charging speed. Jio-bp App activated instantly.",
+        "date": "2026-05-22"
+      }
+    ]
+  },
+  {
+    "id": "station-3",
+    "name": "Ather Grid - Koramangala",
+    "address": "80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "lat": 12.9352,
+    "lng": 77.6244,
+    "operator": "Ather",
+    "rating": 4.8,
+    "reliability": 96,
+    "gridStatus": "Stable Grid",
+    "queueLength": 3,
+    "peakHours": [
+      20,
+      35,
+      55,
+      80,
+      95,
+      96,
+      92,
+      85,
+      80,
+      70,
+      50,
+      25
+    ],
+    "amenities": [
+      "Shopping",
+      "Dining",
+      "Restrooms"
+    ],
+    "connectors": [
+      {
+        "type": "Type 2",
+        "power": 22,
+        "price": 15,
+        "status": "In Use",
+        "count": 8
+      }
+    ],
+    "status": "In Use",
+    "isFavorite": true,
+    "reviews": [
+      {
+        "username": "Ananya_S",
+        "rating": 5,
+        "comment": "Ather grids are always clean and operational. Loved it.",
+        "date": "2026-05-25"
+      }
+    ]
+  },
+  {
+    "id": "station-4",
+    "name": "Zeon Charging - Electronic City",
+    "address": "Velankani Drive, Electronic City Phase I, Bengaluru, Karnataka 560100",
+    "lat": 12.8452,
+    "lng": 77.6602,
+    "operator": "Zeon Charging",
+    "rating": 4.8,
+    "reliability": 97,
+    "gridStatus": "Stable Grid",
+    "queueLength": 0,
+    "peakHours": [
+      10,
+      15,
+      30,
+      50,
+      75,
+      80,
+      70,
+      65,
+      85,
+      90,
+      60,
+      30
+    ],
+    "amenities": [
+      "Shopping",
+      "WiFi",
+      "Dining"
+    ],
+    "connectors": [
+      {
+        "type": "CCS",
+        "power": 240,
+        "price": 22,
+        "status": "Available",
+        "count": 4
+      },
+      {
+        "type": "CCS",
+        "power": 50,
+        "price": 18,
+        "status": "Available",
+        "count": 2
+      }
+    ],
+    "status": "Available",
+    "isFavorite": false,
+    "reviews": [
+      {
+        "username": "Techie_EV",
+        "rating": 5,
+        "comment": "240 kW ultra-charger works like a charm. Highly recommend.",
+        "date": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "station-5",
+    "name": "Statcon Energiaa - Whitefield",
+    "address": "ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",
+    "lat": 12.9698,
+    "lng": 77.75,
+    "operator": "Statcon",
+    "rating": 4.1,
+    "reliability": 82,
+    "gridStatus": "Reduced Load - Peak Demand",
+    "queueLength": 1,
+    "peakHours": [
+      40,
+      50,
+      65,
+      75,
+      80,
+      85,
+      75,
+      70,
+      82,
+      80,
+      60,
+      45
+    ],
+    "amenities": [
+      "WiFi",
+      "Dining"
+    ],
+    "connectors": [
+      {
+        "type": "CCS",
+        "power": 60,
+        "price": 17,
+        "status": "Available",
+        "count": 2
+      }
+    ],
+    "status": "Available",
+    "isFavorite": false,
+    "reviews": [
+      {
+        "username": "GridWatch",
+        "rating": 3,
+        "comment": "Power drops during peak evening hours (5-8 PM). Good otherwise.",
+        "date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "id": "station-6",
+    "name": "Fortum Charge & Drive - HSR Layout",
+    "address": "14th Main Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560102",
+    "lat": 12.9105,
+    "lng": 77.645,
+    "operator": "Fortum",
+    "rating": 4.4,
+    "reliability": 90,
+    "gridStatus": "Stable Grid",
+    "queueLength": 2,
+    "peakHours": [
+      25,
+      40,
+      60,
+      75,
+      85,
+      90,
+      80,
+      82,
+      75,
+      70,
+      50,
+      30
+    ],
+    "amenities": [
+      "Shopping",
+      "Restrooms",
+      "Coffee"
+    ],
+    "connectors": [
+      {
+        "type": "CCS",
+        "power": 100,
+        "price": 19,
+        "status": "In Use",
+        "count": 3
+      },
+      {
+        "type": "Type 2",
+        "power": 22,
+        "price": 13,
+        "status": "Available",
+        "count": 2
+      }
+    ],
+    "status": "Available",
+    "isFavorite": false,
+    "reviews": [
+      {
+        "username": "Srinivas_G",
+        "rating": 4,
+        "comment": "Clean setup inside Sector 7 commercial complex.",
+        "date": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "station-7",
+    "name": "Tata Power EZ Charge - Yelahanka",
+    "address": "Doddaballapur Rd, Yelahanka Satellite Town, Bengaluru, Karnataka 560064",
+    "lat": 13.1007,
+    "lng": 77.5963,
+    "operator": "Tata Power",
+    "rating": 4.6,
+    "reliability": 95,
+    "gridStatus": "Solar Power Backup",
+    "queueLength": 0,
+    "peakHours": [
+      10,
+      20,
+      40,
+      60,
+      75,
+      90,
+      80,
+      75,
+      70,
+      60,
+      45,
+      20
+    ],
+    "amenities": [
+      "Park",
+      "Coffee",
+      "Restrooms"
+    ],
+    "connectors": [
+      {
+        "type": "CCS",
+        "power": 150,
+        "price": 18.5,
+        "status": "Available",
+        "count": 4
+      }
+    ],
+    "status": "Available",
+    "isFavorite": false,
+    "reviews": [
+      {
+        "username": "Vijay_N",
+        "rating": 5,
+        "comment": "Clean air, solar powered grid backup, beautiful park nearby.",
+        "date": "2026-05-24"
+      }
+    ]
+  }
+]
